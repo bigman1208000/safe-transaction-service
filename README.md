@@ -121,7 +121,3 @@ python manage.py createsuperuser
 
 Then go to the web browser and navigate to http://localhost:8000/admin/
 
-## Contributors
-- Denís Graña (denis@gnosis.pm)
-- Giacomo Licari (giacomo.licari@gnosis.pm)
-- Uxío Fuentefría (uxio@gnosis.pm)
